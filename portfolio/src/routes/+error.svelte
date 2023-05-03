@@ -1,0 +1,1 @@
+<h1 class="text-green-400">Ops ocorreu um erro</h1>
